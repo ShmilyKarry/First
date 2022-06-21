@@ -25,6 +25,6 @@ Rectangle {
 }
 
     function setInternalColor() {
-        color = "#111111"
+        color = "pink"
     }
 }
